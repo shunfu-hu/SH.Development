@@ -1,4 +1,4 @@
 SH.Development
 ==============
 
-Shufu Hu and Seth Hager Development Repository
+Shunfu Hu and Seth Hager Development Repository
